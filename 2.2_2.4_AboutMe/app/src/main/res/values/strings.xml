@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Larissa Oliveira</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        Parturient montes nascetur ridiculus mus mauris vitae ultricies leo. Consectetur purus ut faucibus pulvinar elementum integer
+        enim neque volutpat. Facilisi morbi tempus iaculis urna id volutpat lacus. Quis hendrerit dolor magna eget est lorem ipsum
+        dolor. Mus mauris vitae ultricies leo. Cursus turpis massa tincidunt dui ut ornare lectus.
+        Nec ultrices dui sapien eget mi proin sed libero enim. Neque convallis a cras semper.
+        Habitant morbi tristique senectus et netus et malesuada fames. Volutpat diam ut venenatis tellus in metus vulputate.
+        Dolor morbi non arcu risus. Lectus sit amet est placerat in egestas. Erat pellentesque adipiscing commodo elit at imperdiet
+        dui accumsan sit. Est ullamcorper eget nulla facilisi.
+
+        In hac habitasse platea dictumst. Blandit turpis cursus in hac habitasse.
+        Morbi tristique senectus et netus et malesuada fames ac turpis. Nunc aliquet bibendum enim facilisis gravida neque convallis a.
+        Hac habitasse platea dictumst quisque sagittis purus sit amet volutpat. Quis ipsum suspendisse ultrices gravida.
+        Volutpat ac tincidunt vitae semper quis lectus nulla. Tincidunt eget nullam non nisi est sit amet.
+        Dui nunc mattis enim ut tellus. Faucibus ornare suspendisse sed nisi. Quis blandit turpis cursus in.
+        Sit amet aliquam id diam maecenas.
+    </string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done_button">DONE</string>
+</resources>
